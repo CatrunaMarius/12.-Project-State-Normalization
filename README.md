@@ -1,3 +1,8 @@
+## 12. Project State Normalization
+### Referice link
+[Optional Hash Tables vs Arrays](https://www.kirupa.com/html5/hashtables_vs_arrays.htm)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
